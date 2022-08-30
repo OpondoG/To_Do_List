@@ -274,6 +274,7 @@
     "get-symbol-description": "^1.0.0",
     "get-uri": "^3.0.2",
     "getpass": "^0.1.7",
+    "gh-pages": "^4.0.0",
     "glob": "^7.2.3",
     "glob-parent": "^5.1.2",
     "glob-to-regexp": "^0.4.1",
